@@ -3,3 +3,14 @@
   max-width: 1200px;
   margin: 0 auto;
 }
+
+.error {
+  text-align: center;
+  color: rgb(236, 66, 66);
+  font-weight: bold;
+  margin: 20px;
+}
+
+.retry-button {
+  margin-top: 10px;
+}

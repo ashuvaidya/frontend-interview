@@ -11,8 +11,9 @@
 
 .cell {
   text-align: left;
-  border-right: 1px solid #eee;
   padding: 0 15px;
+  font-weight: 700;
+
 }
 
 .cell sub {
@@ -20,4 +21,8 @@
   font-size: 0.8rem;
   color: #999;
   margin-bottom: 5px;
+}
+
+.email {
+color: #346bc4;
 }
